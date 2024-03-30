@@ -1,1 +1,4 @@
-
+<Version: 0.01>
+/data/Map001.json https://raw.githubusercontent.com/PirsCepish/Riesenfil-stories-of-Nizerom/main/Map001.json
+/data/Map002.json https://raw.githubusercontent.com/PirsCepish/Riesenfil-stories-of-Nizerom/main/Map002.json
+<End of Version>
